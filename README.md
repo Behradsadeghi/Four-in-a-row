@@ -1,2 +1,2 @@
 # Four-in-a-row
-four in a row game with C++
+The game is designed for single-player mode, featuring an AI Agent that employs the Negamax algorithm. This algorithm evaluates the minimum values of child nodes in each step and then chooses the maximum of these minimum values as the value for the parent node in the subsequent step.
